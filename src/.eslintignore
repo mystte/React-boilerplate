@@ -1,0 +1,10 @@
+node_modules/
+**/*.css
+public/
+**/*.md
+.eslintrc
+.prettierrc
+.gitignore
+package-lock.json
+package.json
+yarn.lock
